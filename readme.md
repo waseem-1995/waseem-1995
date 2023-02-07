@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on Linkedin
 - 💬 Ask me about any MERN related stuff
-- 📫 you can reach me at log4gaurav@gmail.com
+- 📫 you can reach me at iwaseemkhan1995@gmail.com
 - 😄 Pronouns: He/Him
 - <a href='#resume' target="_blank" rel="noopener noreferrer" >
    📝 Resume
