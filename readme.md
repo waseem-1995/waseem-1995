@@ -34,8 +34,8 @@
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](linkdinlink)
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://waseem-1995.github.io/)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/mohd-waseem-khan-909228117/)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://helpful-dasik-3a22d8.netlify.app/)
   [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/waseem-1995)
 </div>
 
