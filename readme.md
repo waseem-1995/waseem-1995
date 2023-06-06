@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center"> :card_file_box: About Me</h2>
-<h4 align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
+<h4 align='center'>Full Stack Web Developer with expertise in front-end and back-end development. Proficient in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. Strong problem-solving skills and a passion for creating exceptional user experiences. Committed to delivering high-quality web solutions that drive innovation.</h4>
 
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
